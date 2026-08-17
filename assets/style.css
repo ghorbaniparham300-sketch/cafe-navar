@@ -331,6 +331,11 @@ nav li {
     line-height: 1.8;
 }
 
+.cup2 {
+    display: inline-block;
+    font-size: 25px;
+}
+
 .contact-status {
     margin-top: 30px;
     padding-top: 20px;
