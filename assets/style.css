@@ -298,6 +298,10 @@ nav li {
     border-radius: 15px;
     background-color: #191512;
 }
+.contact-info:hover {
+    transition: 0.4s;
+    transform: translateY(-9px);
+}
 
 .contact-info h3 {
     color: #d8ad63;
